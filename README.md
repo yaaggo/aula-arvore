@@ -7,18 +7,6 @@ Este repositório contém códigos relacionados à aula sobre árvores em C, min
 - Operações básicas como inserção, remoção e busca.
 - Outros conceitos fundamentais no contexto de árvores.
 
-## Estrutura do Repositório
-
-- **`arvore_binaria.c`**: Implementação básica de uma árvore binária de busca.
-- **`arvore_avl.c`**: Código para implementação e manipulação de árvores AVL.
-- **`utilidades.h` e `utilidades.c`**: Arquivos auxiliares para funções comuns usadas nos códigos principais.
-- **`README.md`**: Este arquivo de documentação.
-
-## Pré-requisitos
-
-- Um compilador C, como GCC.
-- Ambiente Linux, macOS ou Windows com suporte a compilação C.
-
 ## Conceitos Abordados
 
 - **Árvores Binárias de Busca (BST)**:
